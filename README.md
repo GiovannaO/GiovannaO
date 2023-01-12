@@ -13,10 +13,6 @@
 <div><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div><br/>
 
-![GiovannaO's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaO&show_icons=true&title_color=C71585&icon_color=C71585&text_color=F5F5F5&theme=dark&hide_border=0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaO&langs_count=10&title_color=C71585&icon_color=C71585&text_color=F5F5F5&theme=dark&hide_border=0&layout=compact)<br/><br/>
-
 <p>Contato</p>
 <a href="mailto:giovanna.oliveira1516@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="mailto:giovanna.oliveira_justino@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
