@@ -1,9 +1,9 @@
-### Olá! Meu nome é Giovanna Oliveira
-##
-<br/>
-<p>Sou estudante de Ciência da Computação, no IFSP - SBV</p>
+### Olá! Meu nome é Giovanna 😁
 
-![Snake animation](https://github.com/GiovannaO/GiovannaO/blob/output/github-contribution-grid-snake.svg)
+<br/>
+<p>🎓Sou graduanda de Ciência da Computação, no IFSP - SBV</p>
+
+
 
 <p>🌱 Estou aprendendo 🌱</p>
 <div><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
